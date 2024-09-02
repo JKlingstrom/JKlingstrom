@@ -1,7 +1,7 @@
 # Hi there! Welcome to my github page!
 
 ## Interests 👨‍💻🕹
-Recently began CTF's and Hardware hacking.
+Intressted in all things tech! 
 
 
 ## Contact ℹ
