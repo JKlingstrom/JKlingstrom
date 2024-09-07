@@ -4,7 +4,7 @@
 
 
 
-## Basic skills in:
+## Basic skills:
 [![Skills](https://skillicons.dev/icons?i=arduino,github,css,html,kali,linux,windows,obsidian,py,raspberrypi&perline=5)](https://skillicons.dev)
 
 ## Projects:
