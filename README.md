@@ -1,11 +1,10 @@
-# Hi there! Welcome to my github page!
+# Hi there! I'm JKlingstrom
 
-## Interests 👨‍💻🕹
-Intressted in all things tech! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F71D7A&width=435&lines=I'm+a+Digital+Forensics+Student;I'm+a+CTF+Player;I'm+a+Beginner+Programmer;I'm+a+Beginner+Hardware+Hacker)](https://git.io/typing-svg)
 
 ## Basic-Markdown-Guide
 I have recently created a basic Markdown guide. You can find it here:<br> [Basic-Markdown-Guide](https://github.com/JKlingstrom/Basic-Markdown-Guide)
 
 ## Contact ℹ
-Feel free to go over to my [webpage](https://jklingstrom.github.io/) for more information about current projects and my contact information.
+Feel free to go over to my [webpage](https://jklingstrom.github.io/) for more information about current projects!
 
