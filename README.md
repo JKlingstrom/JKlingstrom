@@ -1,6 +1,6 @@
 # Hi there! I'm JKlingstrom
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F71D7A&width=435&lines=I'm+a+Digital+Forensics+Student;I'm+a+CTF+Player;I'm+a+Beginner+Programmer;I'm+a+Beginner+Hardware+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F71D7A&width=435&lines=I'm+a+Digital+Forensics+Student;I'm+a+CTF+Player;I'm+a+Beginner+Programmer)](https://git.io/typing-svg)
 
 
 
