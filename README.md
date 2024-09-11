@@ -9,8 +9,8 @@
 
 ## Projects:
 
-### Basic-Markdown-Guide
-I have recently created a basic Markdown guide. You can find it here:<br> [Basic-Markdown-Guide](https://github.com/JKlingstrom/Basic-Markdown-Guide)
+### Markdown Guide
+I have recently created a basic Markdown guide. You can find it here:<br> [Markdown Guide](https://github.com/JKlingstrom/Basic-Markdown-Guide)
 
 ## Webpage
 Feel free to go over to my [webpage](https://jklingstrom.github.io/) for more information about me and current projects!
