@@ -1,4 +1,4 @@
-# Hi there! I'm JKlingstrom
+# Hi there!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=F71D7A&width=435&lines=I'm+a+Digital+Forensics+Student;I'm+a+CTF+Player;I'm+Interested+In+All+Things+Tech!)](https://git.io/typing-svg)
 
